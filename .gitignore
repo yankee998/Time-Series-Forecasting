@@ -14,10 +14,10 @@ venv/
 env/
 
 # Data
-data/raw/*
-data/processed/*
-!data/raw/.gitkeep
-!data/processed/.gitkeep
+# data/raw/*
+# data/processed/*
+# !data/raw/.gitkeep
+# !data/processed/.gitkeep
 
 # Notebooks
 notebooks/.ipynb_checkpoints/
